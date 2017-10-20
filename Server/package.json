@@ -1,0 +1,11 @@
+{
+  "name" : "ChatAppServer",
+  "version" : "0.0.1",
+  "description" : "Mobile chat server",
+  "author" : "Maque",
+  "dependencies" : {
+    "socket.io" : "2.0.3",
+    "mongojs" : "2.4.1"
+  }
+
+}
